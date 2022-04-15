@@ -1,4 +1,6 @@
-#### Hi, I'm Lucas Fouraux, a Bachelor's and Master degree in Computer Science, developer with more than 3 years of experience. Passionate about systems architecture and scalability. 
+#### Hello, I'm Lucas Fouraux, I have a Bachelor's and Master's in Computer Science, developer with more than 3 years of experience. Passionate about systems architecture and scalability. 
+
+##### Interests: Cloud Computing; AWS; Blockchain.
 
 <p align="center">
   <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
@@ -8,7 +10,6 @@
 
 <div align="center">
   <a href="https://github.com/lucasfouraux">
-    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasfouraux&show_icons=true&count_private=true&theme=dracula"
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfouraux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfouraux&layout=compact&langs_count=7&theme=dracula"/>
 </div>
