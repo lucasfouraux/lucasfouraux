@@ -13,7 +13,9 @@
     <img height="180em" alt="Fouraux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasfouraux&show_icons=true&count_private=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfouraux&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
     
 #### Backend:
 <div style="display: inline_block"><br>
