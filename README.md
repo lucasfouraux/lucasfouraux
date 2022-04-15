@@ -1,4 +1,4 @@
-#### Hello, I'm Lucas Fouraux, I have a Bachelor's and Master's in Computer Science, developer with more than 3 years of experience. Passionate about systems architecture and scalability. 
+#### Hello, I'm Lucas Fouraux, I have a Bachelor's and Master's in Computer Science, developer with more than 3 years of professional experience. Passionate about systems architecture and scalability. 
 
 ##### Interests: Cloud Computing; AWS; Blockchain.
 
